@@ -1,2 +1,2 @@
-# bharatintern-internship
-full stack internship
+# contact management website
+MERN stack
